@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Madhukar Kumar 👋</h1>
-<h3 align="center">Experienced Full Stack Web Developer</h3>
+<h3 align="center">A Passionate Full-Stack Web Developer</h3>
 <p align="center">Passionate about crafting dynamic and creative web solutions with expertise in HTML, CSS, React, Node, and Express. Currently focused on enhancing skills in Node.js, Redux, and responsive design.</p>
 
-<p align="center"> 🚀 Exploring the realms of web development, I am on a journey to master the art of creating enchanting digital experiences. From stylish React interfaces to robust Node.js backends, I thrive on turning ideas into seamless, user-friendly code.</p>
+
 <hr>
 
  ### 👨‍💻ABOUT ME:
@@ -24,7 +24,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhukarkr2468&label=Profile%20views&color=0e75b6&style=flat" alt="madhukarkr2468" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhukarkrgithub&label=Profile%20views&color=0e75b6&style=flat" alt="Madhukarkrgithub" /> </p>
 
 
 
@@ -87,14 +87,14 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhukarkr2468&column=-1&theme=juicyfresh" alt="madhukarkr2468" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Madhukarkrgithub&column=-1&theme=juicyfresh" alt="Madhukarkrgithub" /></a> </p>
 
 ## 📊 GitHub Stats:
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhukarkr2468&show_icons=true&locale=en&layout=compact" alt="madhukarkr2468" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhukarkrgithub&show_icons=true&locale=en&layout=compact" alt="Madhukarkrgithub" /></p>
 
-<p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=madhukarkr2468&show_icons=true&locale=en" alt="madhukarkr2468" /></p>
+<p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Madhukarkrgithub&show_icons=true&locale=en" alt="Madhukarkrgithub" /></p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=madhukarkr2468&" alt="madhukarkr2468" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Madhukarkrgithub" alt="Madhukarkrgithub" /></p>
 
 
