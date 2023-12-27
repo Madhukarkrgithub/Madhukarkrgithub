@@ -14,7 +14,7 @@
   - Crafting stylish and responsive interfaces with SCSS, HTML, and CSS 💅
   - Exploring the realms of Node.js, Express, and the enchanting MongoDB database 🚀
 
-  -  👨‍💻 Check out my projects at [https://madhukarkr2468.github.io/](https://madhukarkr2468.github.io/).
+  -  👨‍💻 Check out my projects at [https://Madhukarkrgithub.github.io/](https://Madhukarkrgithub.github.io/).
    
  -  💬 Interested in a dialogue? Feel free to pick my brain about the secrets of **React, Redux, SCSS, HTML, CSS, JavaScript, Node.js, Express, and the wonders of MongoDB**!
 
