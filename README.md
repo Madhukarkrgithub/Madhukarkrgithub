@@ -20,7 +20,7 @@
 
    <hr>
 
-<p align="center"> <a href="https://twitter.com/madhukar2468" target="_blank"><img src="https://img.shields.io/twitter/follow/madhukar2468?logo=twitter&style=for-the-badge" alt="madhukar2468" /></a> </p>
+<p align="center"> <a href="https://twitter.com/madhukarkr2468/" target="_blank"><img src="https://img.shields.io/twitter/follow/madhukar2468?logo=twitter&style=for-the-badge" alt="madhukar2468" /></a> </p>
 
 
 
@@ -31,7 +31,7 @@
 ## 📫 How to reach me:
   - Email: madhukarkumar2468@gmail.com
   - LinkedIn: [Madhukar Kumar](https://www.linkedin.com/in/madhukarkr2468/)
-  - Twitter: [@madhukar2468](https://twitter.com/madhukar2468)
+  - Twitter: [@madhukar2468](https://twitter.com/madhukarkr2468/)
   - Portfolio :[https://Madhukarkrgithub.github.io/](https://Madhukarkrgithub.github.io/)
 
 
